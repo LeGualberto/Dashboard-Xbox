@@ -2,7 +2,7 @@
 Dashboard de Assinaturas do Xbox Game Pass
 
 📌 Resumo:
-
+Este Dashboard foi usado para aprendizagem no curso da DIO
 Tecnologia usada: Microsoft Excel
 
 Gráfico incluído: Total de assinaturas EA Play e Minecraft Season Pass
